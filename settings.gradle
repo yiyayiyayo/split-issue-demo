@@ -1,0 +1,3 @@
+rootProject.name = "split-issue-demo"
+include ':app'
+include ':feature'

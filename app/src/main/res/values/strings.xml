@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">split-issue-demo</string>
+    <string name="title_feature">Feature</string>
+    <string name="text_title">Text content</string>
+    <string name="user_cancelled">The user cancelled module installation</string>
+    <string name="error_for_module">Error: %1$i for module %2$s</string>
+    <string name="downloading">Downloading %1$s</string>
+    <string name="installing">Installing %1$s</string>
+    <string name="already_installed">Feature installed</string>
+    <string name="install_feature">Install feature</string>
+    <string name="display_text_in_feature">Feature.getText</string>
+    <string name="new_web_view">new WebView()</string>
+    <string name="split_compat_install">SplitCompat.install</string>
+    <string name="asset_paths_label">%2$s Asset paths of %1$s</string>
+    <string name="asset_paths_error">Failed to get asset paths:\n%s</string>
+</resources>
